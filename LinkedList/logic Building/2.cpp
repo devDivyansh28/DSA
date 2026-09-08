@@ -8,7 +8,7 @@ Given the head of a singly linked list. Group all the nodes with odd indices fol
 Consider the 1st node to have index 1 and so on. The relative order of the elements inside the odd and even group must remain the same as the given input.
 
 
-Example 1
+Example 100
 
 Input: linkedList = [1, 2, 3, 4, 5]
 
